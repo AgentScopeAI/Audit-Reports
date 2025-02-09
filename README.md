@@ -63,7 +63,7 @@
 <ul>
   <li>📌 <b>Submit a GitHub Issue</b></li>
   <li>📌 <b>Open a Pull Request</b></li>
-  <li>📌 <b>Engage in discussions on our <a href="https://t.me/AgentScope_AI">Telegram community</a></b></li>
+  <li>📌 <b>Engage in discussions on our <a href="https://t.me/AgentScope_AI">Telegram Community</a></b></li>
 </ul>
 
 ---
